@@ -9,3 +9,6 @@ exercise 2 change 2
 
 rebase 1
 rebase 2
+
+
+feature 1
